@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2293-min-max-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2293-min-max-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2293-min-max-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2293-min-max-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
