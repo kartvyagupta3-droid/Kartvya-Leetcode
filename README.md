@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2293-min-max-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2293-min-max-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
