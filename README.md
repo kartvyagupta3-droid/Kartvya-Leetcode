@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0292-nim-game) |
 | [2235-add-two-integers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2235-add-two-integers) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
