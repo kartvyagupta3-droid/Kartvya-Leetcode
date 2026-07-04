@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0292-nim-game) |
+| [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2544-alternating-digit-sum) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0231-power-of-two) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
