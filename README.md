@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0704-binary-search) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0389-find-the-difference) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
