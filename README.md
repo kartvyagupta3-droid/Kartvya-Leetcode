@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Greedy
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1137-n-th-tribonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2544-alternating-digit-sum) |
@@ -151,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
