@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
+| [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0412-fizz-buzz) |
 | [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
+| [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1748-sum-of-unique-elements) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
