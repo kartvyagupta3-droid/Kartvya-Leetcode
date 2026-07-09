@@ -21,8 +21,8 @@ class Solution {
         }
     }
     if(fr){
-        for(int i = 0; i < matrix[0].length; i++) {
-            matrix[0][i] = 0;
+        for(int j = 0; j < matrix[0].length; j++) {
+            matrix[0][j] = 0;
         }
     }
     if(fc) {
