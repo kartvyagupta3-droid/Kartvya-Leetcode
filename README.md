@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Memoization
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
