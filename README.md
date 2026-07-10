@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0335-self-crossing) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
