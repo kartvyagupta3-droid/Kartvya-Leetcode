@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2293-min-max-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2293-min-max-game) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3925-concatenate-array-with-reverse](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
