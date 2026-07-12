@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3099-harshad-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
