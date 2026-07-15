@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3099-harshad-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0324-wiggle-sort-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
