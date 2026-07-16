@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0335-self-crossing) |
 | [0412-fizz-buzz](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0412-fizz-buzz) |
 | [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
+| [0507-perfect-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0633-sum-of-square-numbers) |
