@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0319-bulb-switcher) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
