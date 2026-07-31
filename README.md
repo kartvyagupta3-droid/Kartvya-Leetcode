@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0412-fizz-buzz) |
 | [0458-poor-pigs](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0458-poor-pigs) |
 | [0492-construct-the-rectangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -203,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
