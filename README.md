@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0812-largest-triangle-area](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0812-largest-triangle-area](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0335-self-crossing) |
+| [0812-largest-triangle-area](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0812-largest-triangle-area) |
 ## Sliding Window
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Enumeration
 |  |
