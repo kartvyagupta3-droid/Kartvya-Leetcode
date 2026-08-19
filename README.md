@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0389-find-the-difference) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0202-happy-number) |
