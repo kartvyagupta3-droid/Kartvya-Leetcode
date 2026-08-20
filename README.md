@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1528-shuffle-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
