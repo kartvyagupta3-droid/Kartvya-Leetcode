@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0812-largest-triangle-area) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0796-rotate-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2293-min-max-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2293-min-max-game) |
