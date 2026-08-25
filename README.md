@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
