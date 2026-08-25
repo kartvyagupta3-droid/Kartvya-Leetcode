@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0812-largest-triangle-area](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0812-largest-triangle-area) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
