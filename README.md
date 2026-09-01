@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0283-move-zeroes) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0704-binary-search) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
