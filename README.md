@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
