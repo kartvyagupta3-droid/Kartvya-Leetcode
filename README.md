@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0812-largest-triangle-area](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0771-jewels-and-stones) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
