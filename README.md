@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
