@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
 | ------- |
