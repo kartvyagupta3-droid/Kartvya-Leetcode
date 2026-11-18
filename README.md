@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1528-shuffle-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
