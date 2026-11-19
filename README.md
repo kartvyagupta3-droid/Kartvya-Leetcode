@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0735-asteroid-collision](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0735-asteroid-collision) |
 | [0812-largest-triangle-area](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0877-stone-game) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0735-asteroid-collision) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2293-min-max-game](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2293-min-max-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/0735-asteroid-collision) |
 | [2000-reverse-prefix-of-word](https://github.com/kartvyagupta3-droid/Kartvya-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
